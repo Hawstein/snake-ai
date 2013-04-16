@@ -1,4 +1,4 @@
-## Snake AI
+# Snake AI
 
 A snake AI written in python. Use curses module, Windows users 
 should install it first:
@@ -15,3 +15,7 @@ should install it first:
 ## Demo
 
 <img src="snake-ai.gif" />
+
+## More in my blog
+
+<http://hawstein.com/posts/snake-ai.html>
